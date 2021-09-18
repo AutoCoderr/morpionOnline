@@ -1,0 +1,22 @@
+#morpion td {
+    border: 1px solid black;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+}
+.cell_0 {
+    background-color: white;
+}
+.cell_1 {
+    background-color: red;
+}
+.cell_2 {
+    background-color: green;
+}
+
+body {
+    background-color: #23c110;
+    color:white;
+}
